@@ -1,4 +1,4 @@
-# todo-ts
+# Products Example With VueJS Typescript
 
 ## Project setup
 ```
@@ -10,8 +10,9 @@ yarn install
 yarn serve
 ```
 ### API config
-
+```
 json-server --watch db.json
+```
 
 ## Features
 
